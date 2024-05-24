@@ -28,6 +28,8 @@
 
 <p>"El polimorfismo hace referencia a la cualidad por la que un objeto adquiere o puede tener diferentes formas. En Java, el polimorfismo alude al modo en que se pueden crear y utilizar dos o más métodos con el mismo nombre para ejecutar funciones diferentes."</p>
 
+<img src="https://halved-octave-804.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F3cb150ba-d23d-4291-a63d-d5329545e1db%2Fe175cd82-129f-4cf5-8ff4-69ef85579042%2FUntitled.png?table=block&id=c2e4166f-0d46-4d79-8593-7991f73e8294&spaceId=3cb150ba-d23d-4291-a63d-d5329545e1db&width=580&userId=&cache=v2" alt="Herencia en Java">
+
 <h2>Para qué sirve?</h2>
 
 <p>Supongamos que tenemos una clase base <strong><code>Animal</code></strong> y dos clases derivadas <strong><code>Perro</code></strong> y <strong><code>Gato</code></strong>, que heredan de <strong><code>Animal</code></strong>. Cada una de estas clases tiene un método <strong><code>hacerSonido()</code></strong>, pero cada clase implementa este método de manera diferente.</p>
@@ -46,8 +48,10 @@
 
 <h2>Referencias</h2>
 
-<p><strong>Herencia:</strong> HubSpot. (2022, diciembre 5). ¿Qué es la herencia en Java y cómo funciona? Actualizado: 16 de mayo de 2023. <a href="https://blog.hubspot.es/website/que-es-herencia-java#:~:text=La%20herencia%20en%20Java%20implica,herencia%20entre%20clases%20es%20extends">https://blog.hubspot.es/website/que-es-herencia-java#:~:text=La%20herencia%20en%20Java%20implica,herencia%20entre%20clases%20es%20extends</a></p>
+<p><strong>Herencia:</strong> HubSpot. (2022, diciembre 5). ¿Qué es la herencia en Java y cómo funciona? Actualizado: 16 de mayo de 2023. <a href="https://blog.hubspot.es/website/que-es-herencia-java#:~:text=La%20herencia%20en%20Java%20implica,herencia%20entre%20clases%20es%20extends">https://blog.hubspot.es/website/que-es-herencia-java#:~:text=La%20herencia%20en%20Java%20implica,herencia%20entre%20clases%20es%20extends</a>.</p>
 
-<p><strong>Encapsulamiento:</strong> OpenWebinars. (2023, noviembre 10). Introducción a POO en Java: Encapsulamiento. <a href="https://openwebinars.net/blog/introduccion-a-poo-en-java-encapsulamiento/#:~:text=En%20Java%2C%20la%20encapsulación%20se,los%20objetos%20de%20esa%20clase">https://openwebinars.net/blog/introduccion-a-poo-en-java-encapsulamiento/#:~:text=En%20Java%2C%20la%20encapsulación%20se,los%20objetos%20de%20esa%20clase</a></p>
+<p><strong>Encapsulamiento:</strong> OpenWebinars. (2023, noviembre 10). Introducción a POO en Java: Encapsulamiento. <a href="https://openwebinars.net/blog/introduccion-a-poo-en-java-encapsulamiento/#:~:text=En%20Java%2C%20la%20encapsulación%20se,los%20objetos%20de%20esa%20clase">https://openwebinars.net/blog/introduccion-a-poo-en-java-encapsulamiento/#:~:text=En%20Java%2C%20la%20encapsulación%20se,los%20objetos%20de%20esa%20clase</a>.</p>
 
-<p><strong>Encapsulamiento:</strong> HubSpot. (2022, diciembre 19). Polimorfismo en Java: ¿Qué es y cómo funciona? Actualizado: 16 de mayo de 2023. <a href="https://blog.hubspot.es/website/polimorfismo-java#:~:text=El%20polimorfismo%20hace%20referencia%20a,nombre%20para%20ejecutar%20funciones%20diferentes">https://blog.hubspot.es/website/polimorfismo-java#:~:text=El%20polimorfismo%20hace%20referencia%20a,nombre%20para%20ejecutar%20funciones%20diferentes</a></p>
+<p><strong>Encapsulamiento:</strong> HubSpot. (2022, diciembre 19). Polimorfismo en Java: ¿Qué es y cómo funciona? Actualizado: 16 de mayo de 2023. <a href="https://blog.hubspot.es/website/polimorfismo-java#:~:text=El%20polimorfismo%20hace%20referencia%20a,nombre%20para%20ejecutar%20funciones%20diferentes">https://blog.hubspot.es/website/polimorfismo-java#:~:text=El%20polimorfismo%20hace%20referencia%20a,nombre%20para%20ejecutar%20funciones%20diferentes</a>.</p>
+
+<p><strong>Sobrecarga:</strong> PCResumen. (2019, 13 de septiembre). La sobrecarga de métodos en Java. Recuperado de <a href="https://www.pcresumen.com/menu-software/35-lenguajes-de-programacion/java/64-la-sobrecarga-de-metodos-en-java#:~:text=A%20Java%2C%20dentro%20de%20una,que%20los%20m%C3%A9todos%20est%C3%A1n%20sobrecargado">https://www.pcresumen.com/menu-software/35-lenguajes-de-programacion/java/64-la-sobrecarga-de-metodos-en-java#:~:text=A%20Java%2C%20dentro%20de%20una,que%20los%20m%C3%A9todos%20est%C3%A1n%20sobrecargado</a>.</p>
